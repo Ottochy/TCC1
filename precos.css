@@ -1,0 +1,23 @@
+nav.bg-light{
+    background-color: #0077C0!important;
+}
+
+.corpo{
+    background-color: #45484b;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.tecs-baixo{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.img2{
+    height: 200px;
+}
